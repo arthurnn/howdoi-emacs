@@ -4,9 +4,10 @@ Search code from StackOverflow and paste it in emacs.
 
 # Installation
 
-## Manual
 
-Drop `howdoi.el` somewhere, and load it on `init.el`:
+1. Install [howdoi](https://github.com/gleitz/howdoi#installation)
+2. Drop `howdoi.el` somewhere, and load it on `init.el`:
+
 ```lisp
 (add-to-list 'load-path "~/path/to/howdoi")
 (require 'howdoi)
