@@ -22,7 +22,7 @@
 
 ;;;###autoload
 (defun howdoi ()
-  "parse csv in php"
+  "How do I? search on stackoverflow"
   (interactive)
   (let ((command (buffer-substring (region-beginning) (region-end))))
       (howdoi--exec-comand (format "%s %s" howdoi-program command))
