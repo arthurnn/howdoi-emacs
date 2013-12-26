@@ -2,6 +2,8 @@
 
 Search code from StackOverflow and paste it in emacs.
 
+![howdoi_v](https://f.cloud.github.com/assets/833383/1812684/234e89e6-6e89-11e3-993c-1905ab840733.gif)
+
 # Installation
 
 
