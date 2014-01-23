@@ -15,7 +15,7 @@ Search code from StackOverflow and paste it in emacs.
 (require 'howdoi)
 ```
 
-# Usuage
+# Usage
 
 Select a region, press `M-x` and `howdoi`.
 
