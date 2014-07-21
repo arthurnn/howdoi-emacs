@@ -23,7 +23,7 @@ Select a region, press `M-x` and `howdoi`.
 
 The MIT License (MIT)
 
-Copyright (c) 2013 Arthur Nogueira Neves
+Copyright (c) 2013-2014 Arthur Nogueira Neves
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
